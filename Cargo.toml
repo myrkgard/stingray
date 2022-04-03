@@ -1,0 +1,10 @@
+[package]
+name = "stingray"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+num-bigint = { version = "0.4" }
+num-traits = "0.2.14"
+num-integer = "0.1"
+firescout = { git = "https://github.com/myrkgard/firescout" }
